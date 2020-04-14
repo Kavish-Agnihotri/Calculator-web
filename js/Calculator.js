@@ -7,3 +7,4 @@ function calc(val)
 	else
 		x.value+=val;
 }
+
